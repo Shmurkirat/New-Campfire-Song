@@ -22,6 +22,7 @@ As we sing along to the campfire song!
 .
 .
 Know your limits as we're all gathered
-around this campfire
-having a blast
-So sing along as its the campfire song! 
+because calculus is hard
+limits help use to find dervivitives!
+and then come integerals 
+which have no inititive!
